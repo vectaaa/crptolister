@@ -6,7 +6,7 @@
     android:layout_height="70dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_margin="4dp"
-    app:cardBackgroundColor="@color/black"
+    app:cardBackgroundColor="#424250"
     app:cardCornerRadius="4dp"
     app:cardElevation="3dp"
     >
